@@ -1,2 +1,2 @@
 # README
-View finished project here: https://pricingpanel-001.netlify.app/
+View finished project here: https://museumofcandy-001.netlify.app/
